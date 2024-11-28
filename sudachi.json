@@ -1,0 +1,6 @@
+{
+    "systemDict": "system_core.dic",
+    "userDict": [
+       "sudachi_user.dic"
+    ]
+}

@@ -1,0 +1,3 @@
+index:
+  - name: test-index
+    mapping: mapping.json

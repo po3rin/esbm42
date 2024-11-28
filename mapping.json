@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "properties": {
+      "title": {
+        "type": "text",
+        "analyzer": "whitespace"
+      },
+      "joined_tokens": {
+        "type": "text",
+        "analyzer": "whitespace"
+      },
+      "tokens": {
+        "type": "sparse_vector"
+      }
+    }
+  }
+}
